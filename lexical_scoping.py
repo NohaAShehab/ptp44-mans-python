@@ -107,10 +107,12 @@ def outerfunction():
         salary = 1000000
         print(f"modified salary={salary}")
     modifySalary()
-
     print(f"salary= {salary}")
 
 outerfunction()
+
+
+
 
 
 
