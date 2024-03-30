@@ -26,3 +26,24 @@ print(f"i= {i}")
 
 for i in range(10 , 1 , -1):
     print(i)
+
+"""
+myfun(5, 4)
+-->(4,5,6,7,8)
+
+'abdulrahman'
+    abdu
+    lr
+    ahm
+    an 
+    
+    
+    ["apple","banana","cherry","kiwi", "iti"]
+    noha 
+    -----
+    enter char m
+    -----
+    enter char : p
+    -pp--
+    
+"""
